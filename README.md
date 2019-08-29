@@ -1,2 +1,3 @@
 # tretas
-Testes de linguagens aleatórias
+- Testes de linguagens aleatórias
+- Tretas show de bola
